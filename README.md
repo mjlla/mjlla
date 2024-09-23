@@ -1,4 +1,5 @@
-### Hello 👋
+![leaves](https://github.com/user-attachments/assets/5b66e9a7-94c4-400e-8123-e6981ff64d45)
+### Hello 🪴
 
 <!--
 **mjlla/mjlla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
